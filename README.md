@@ -1,4 +1,4 @@
-![img](https://cdn.auth0.com/website/auth0-training/auth0-labs-ext/oktane24.png)
+![img](https://pages.okta.com/rs/855-QAH-699/images/email-main-template_auth0-by-okta-logo_black_279x127_3x.png)
 
 # Lab: Fine-grained Authorization for RAG with Auth0 for AI Agents
 
